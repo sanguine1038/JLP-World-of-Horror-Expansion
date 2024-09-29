@@ -1,0 +1,7 @@
+Step 1. Have World of Horror (https://store.steampowered.com/app/913740/WORLD_OF_HORROR/)
+
+Step 2. Right click on the game in your steam library, select Manage>Browse Local Files
+
+Step 3. Have the "JLP World of Horror Expansion" Zip file open, click and drag the files from the zip file into the World of Horror files
+
+Step 4. Have fun!
