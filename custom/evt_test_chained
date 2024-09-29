@@ -1,0 +1,22 @@
+[event]
+name="It's right there."
+location="hospital"
+author="sanguine1038"
+contact=""
+flavor="You hear a multitude of voices speaking from beyond a doorway. It almost seems like they're voices are shifting volume. ##While trying to find a good angle to peek inside, you fall over and slam your head on the ground very hard - making a loud noise."
+options="1"
+image="event_art\bigart3_test.png"
+big="2"
+draw_ui="0"
+x1=12
+y1=100
+x2=492
+y2=215
+wavy_art="0"
+wavy_speed="1.0"
+about=""
+optiona="Prepare yourself"
+testa="story"
+successa="You hear the voices getting closer, alongside very loud and mechanical footsteps."
+winprizea="trigger_enemy"
+winnumbera="custom/enm_peekaboo.ito"
