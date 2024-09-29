@@ -1,0 +1,24 @@
+[event]
+name="THE ARRIVAL"
+location="forest"
+author="sanguine1038"
+contact=""
+flavor="You find a strange piece of paper with a crude drawing on it.## <<DON'T LOOK... ALWAYS WATCHES. NO EYES.>>"
+options="2"
+image="event_art\bigart_test.png"
+big="2"
+draw_ui="1"
+x1=13
+y1=66
+x2=412
+y2=214
+wavy_art="0"
+wavy_speed="1.0"
+about="jeff the killer"
+optiona="Find more."
+optionb="Run away."
+
+/*
+option a - good: using perception you find all the papers and get -5 doom
+option a - bad: slender boss fight
+option b: -3 reason

@@ -1,0 +1,33 @@
+[enemy]
+name="THE MACROCOSOM MONTROSITY"
+subtitle="Sweet stuff"
+type="undead"
+location="hospital"
+author="sanguine1038 & weatfeel"
+ending="1"
+intro="You hear mechanical whirring around the corner, with multiple voices talking over each other. ##<<What an interesting predicament...>> ##<<BASTARDS!! YOU'RE ALL BASTARDS!!>>"
+can_run="0"
+health="20"
+power="10"
+
+damagevalue="2"
+damagetype="STA"
+
+exp="20"
+prize_type="item"
+prize_name="SEWING KIT"
+
+
+hit01="<<BASTARD!!>>"
+hit02="<<You've hurt many people to have come here, haven't you?>>"
+hit03="<<P-P-Please! We don't have to fight! Just run!>>"
+hit04="<<Such a binary choice... But I'm still suffering despite everything...>>"
+art01="custom/enemy_art/art_peekaboo01.png"
+art02="custom/enemy_art/art_peekaboo02.png"
+art03="custom/enemy_art/art_peekaboo03.png"
+art04="custom/enemy_art/art_peekaboo04.png"
+art05="custom/enemy_art/art_peekaboo05.png"
+art06="custom/enemy_art/art_peekaboo06.png"
+art07="custom/enemy_art/art_peekaboo07.png"
+art08="custom/enemy_art/art_peekaboo08.png"
+artfreq="40"
